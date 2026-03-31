@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>비즈 솔루션 | 1인 라이브커머스 · QR테이블 주문 · ERP 통합 구축</title>
+  <meta
+    name="description"
+    content="비즈 솔루션은 1인 라이브커머스, QR테이블 주문·매출 연동 통합 시스템, ERP 구축까지 비즈니스 운영을 연결하는 통합 솔루션 기업입니다."
+  />
+</head>
+<body>
+  <!-- Header -->
+  <header class="header" id="top">
+    <div class="container">
+      <div class="header-inner">
+        <h1 class="logo"><a href="#top">BIZ SOLUTION</a></h1>
+
+        <nav class="gnb" aria-label="주요 메뉴">
+          <ul>
+            <li><a href="#about">회사소개</a></li>
+            <li><a href="#solutions">핵심솔루션</a></li>
+            <li><a href="#industries">업종별도입</a></li>
+            <li><a href="#cases">구축사례</a></li>
+            <li><a href="#process">도입절차</a></li>
+            <li><a href="#contact">문의하기</a></li>
+          </ul>
+        </nav>
+
+        <div class="header-cta">
+          <a href="#contact" class="btn btn-primary">상담문의</a>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <!-- Hero -->
+    <section class="hero">
+      <div class="container">
+        <div class="hero-inner">
+          <div class="hero-content">
+            <p class="eyebrow">1인 라이브커머스 · QR테이블 주문 · ERP 통합 구축</p>
+            <h2>
+              주문부터 매출 연동,
+              <br />ERP 운영까지 하나로 연결합니다
+            </h2>
+            <p class="hero-text">
+              비즈 솔루션은 1인 라이브커머스 구축, QR테이블 주문·매출 연동 통합 시스템,
+              ERP/관리자 시스템까지 판매와 운영을 하나로 연결하는 실무형 비즈니스 솔루션을 제공합니다.
+            </p>
+
+            <div class="hero-buttons">
+              <a href="#contact" class="btn btn-primary">서비스 상담 신청</a>
+              <a href="#solutions" class="btn btn-secondary">솔루션 보기</a>
+            </div>
+
+            <ul class="hero-badges" aria-label="핵심 키워드">
+              <li>1인 라이브커머스</li>
+              <li>QR테이블 주문</li>
+              <li>매출 연동</li>
+              <li>ERP 시스템</li>
+              <li>통합 운영관리</li>
+              <li>맞춤 구축</li>
+            </ul>
+          </div>
+
+          <div class="hero-visual" aria-label="서비스 시각 영역">
+            <div class="visual-card">
+              <h3>통합 운영 구조</h3>
+              <ul>
+                <li>Live Commerce</li>
+                <li>QR Table Order + Sales Sync</li>
+                <li>ERP / Admin Dashboard</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- About -->
+    <section class="section about" id="about">
+      <div class="container">
+        <div class="section-heading">
+          <p class="section-label">ABOUT</p>
+          <h2>판매와 운영을 연결하는 통합 솔루션 기업</h2>
+          <p>
+            비즈 솔루션은 단순 제작사가 아니라 주문, 매출, 정산, 운영 데이터를 하나로 연결해
+            실제 업무 효율을 높이는 시스템을 설계·구축합니다.
+          </p>
+        </div>
+
+        <div class="about-grid">
+          <article class="info-card">
+            <h3>실무 중심 구축</h3>
+            <p>현장에서 실제로 사용하는 운영 흐름을 기준으로 기능을 설계합니다.</p>
+          </article>
+          <article class="info-card">
+            <h3>통합 데이터 구조</h3>
+            <p>판매 채널과 관리자 시스템을 연결해 데이터가 끊기지 않도록 구성합니다.</p>
+          </article>
+          <article class="info-card">
+            <h3>업종 맞춤 커스터마이징</h3>
+            <p>외식, 유통, 브랜드, 라이브 판매 환경에 맞는 맞춤형 구축이 가능합니다.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Problem -->
+    <section class="section pain-points">
+      <div class="container">
+        <div class="section-heading">
+          <p class="section-label">PAIN POINT</p>
+          <h2>이런 문제를 겪고 계신가요?</h2>
+        </div>
+
+        <div class="problem-grid">
+          <article class="problem-card">
+            <h3>주문과 매출 관리가 분리됨</h3>
+            <p>채널별 주문은 들어오지만 매출 집계와 정산 관리가 따로 운영되고 있습니다.</p>
+          </article>
+          <article class="problem-card">
+            <h3>라이브커머스 운영 시스템 부재</h3>
+            <p>1인 라이브 판매를 시작하고 싶지만 주문·운영을 받쳐줄 시스템이 부족합니다.</p>
+          </article>
+          <article class="problem-card">
+            <h3>매장 주문 업무 비효율</h3>
+            <p>인력 의존 주문 방식으로 인해 주문 누락, 대기, 운영 부담이 커지고 있습니다.</p>
+          </article>
+          <article class="problem-card">
+            <h3>ERP 연동 부족으로 수작업 증가</h3>
+            <p>상품, 주문, 회원, 매출 데이터가 분리되어 업무가 반복적으로 발생합니다.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Solutions -->
+    <section class="section solutions" id="solutions">
+      <div class="container">
+        <div class="section-heading">
+          <p class="section-label">SOLUTIONS</p>
+          <h2>비즈 솔루션 핵심 서비스</h2>
+          <p>QR테이블 주문 시스템과 매출 연동은 하나의 통합 운영 솔루션으로 제공합니다.</p>
+        </div>
+
+        <div class="solution-grid">
+          <article class="solution-card featured">
+            <div class="solution-tag">CORE 01</div>
+            <h3>1인 라이브커머스 솔루션</h3>
+            <p>
+              1인 진행 환경에서도 효율적인 상품 소개와 주문 유도가 가능하도록
+              라이브 판매 구조와 운영 기능을 제공합니다.
+            </p>
+            <ul>
+              <li>라이브 상품 노출 구조</li>
+              <li>실시간 주문 유도 설계</li>
+              <li>주문/결제 데이터 연계</li>
+              <li>관리자 상품 운영 기능</li>
+            </ul>
+          </article>
+
+          <article class="solution-card featured">
+            <div class="solution-tag">CORE 02</div>
+            <h3>QR테이블 주문 · 매출 연동 통합 시스템</h3>
+            <p>
+              테이블별 QR 주문부터 주문 접수, 매출 집계, 운영 데이터 관리까지
+              매장 운영에 필요한 핵심 기능을 하나의 흐름으로 연결합니다.
+            </p>
+            <ul>
+              <li>테이블별 QR 주문</li>
+              <li>메뉴/옵션 선택 및 주문 접수</li>
+              <li>주문 현황 및 매출 데이터 연동</li>
+              <li>운영 효율 및 회전율 개선</li>
+            </ul>
+          </article>
+
+          <article class="solution-card">
+            <div class="solution-tag">CORE 03</div>
+            <h3>ERP 시스템 구축</h3>
+            <p>
+              주문, 상품, 회원, 매출, 정산 데이터를 통합 관리할 수 있도록
+              기업 맞춤형 ERP/관리자 시스템을 구축합니다.
+            </p>
+            <ul>
+              <li>주문/매출 통합 관리</li>
+              <li>상품/회원 데이터 관리</li>
+              <li>정산 및 운영 프로세스 효율화</li>
+              <li>관리자 대시보드 구성</li>
+            </ul>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Industries -->
+    <section class="section industries" id="industries">
+      <div class="container">
+        <div class="section-heading">
+          <p class="section-label">INDUSTRIES</p>
+          <h2>이런 업종에 적합합니다</h2>
+        </div>
+
+        <div class="industry-grid">
+          <article class="industry-card">
+            <h3>외식 · 매장형 비즈니스</h3>
+            <p>QR테이블 주문, 매출 연동, 매장 운영 자동화가 필요한 업종</p>
+          </article>
+          <article class="industry-card">
+            <h3>라이브커머스 운영사</h3>
+            <p>1인 라이브 판매와 주문·정산 흐름을 함께 설계해야 하는 기업</p>
+          </article>
+          <article class="industry-card">
+            <h3>브랜드 · 쇼핑몰 운영사</h3>
+            <p>ERP 기반으로 상품, 회원, 주문, 매출 데이터를 통합 관리하려는 기업</p>
+          </article>
+          <article class="industry-card">
+            <h3>유통 · 도소매 사업자</h3>
+            <p>복수 판매 채널과 운영 데이터를 연결해 관리 효율을 높이려는 기업</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Difference -->
+    <section class="section strengths">
+      <div class="container">
+        <div class="section-heading">
+          <p class="section-label">WHY BIZ SOLUTION</p>
+          <h2>비즈 솔루션이 다른 이유</h2>
+        </div>
+
+        <div class="strength-list">
+          <article class="strength-item">
+            <span>01</span>
+            <div>
+              <h3>단순 제작이 아닌 운영 중심 설계</h3>
+              <p>보여주기용이 아니라 실제 운영 흐름을 기준으로 시스템을 구성합니다.</p>
+            </div>
+          </article>
+          <article class="strength-item">
+            <span>02</span>
+            <div>
+              <h3>주문부터 매출, ERP까지 연결</h3>
+              <p>각 기능이 따로 놀지 않도록 하나의 데이터 구조 안에서 설계합니다.</p>
+            </div>
+          </article>
+          <article class="strength-item">
+            <span>03</span>
+            <div>
+              <h3>업종 맞춤형 구축 가능</h3>
+              <p>사업 모델과 운영 방식에 맞춰 필요한 기능 범위를 조정할 수 있습니다.</p>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Cases -->
+    <section class="section cases" id="cases">
+      <div class="container">
+        <div class="section-heading">
+          <p class="section-label">PORTFOLIO</p>
+          <h2>구축 사례 및 적용 예시</h2>
+        </div>
+
+        <div class="case-grid">
+          <article class="case-card">
+            <h3>QR 주문 기반 매장 운영 자동화</h3>
+            <p>테이블 주문부터 매출 데이터 확인까지 하나의 흐름으로 구성</p>
+          </article>
+          <article class="case-card">
+            <h3>라이브 판매와 주문 연동 구조 구축</h3>
+            <p>1인 라이브 진행 환경에 적합한 판매 흐름과 관리자 기능 설계</p>
+          </article>
+          <article class="case-card">
+            <h3>ERP 기반 통합 운영 관리</h3>
+            <p>상품, 회원, 주문, 매출 데이터를 한 화면에서 관리할 수 있도록 구성</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- Process -->
+    <section class="section process" id="process">
+      <div class="container">
+        <div class="section-heading">
+          <p class="section-label">PROCESS</p>
+          <h2>도입 절차</h2>
+        </div>
+
+        <ol class="process-list">
+          <li>
+            <strong>상담 및 요구사항 분석</strong>
+            <p>업종, 운영 방식, 필요한 기능 범위를 확인합니다.</p>
+          </li>
+          <li>
+            <strong>맞춤 기획 및 구조 설계</strong>
+            <p>업무 흐름에 맞춰 기능 구조와 화면 구성을 제안합니다.</p>
+          </li>
+          <li>
+            <strong>개발 및 연동 구축</strong>
+            <p>솔루션 개발과 함께 주문, 매출, 운영 데이터를 연결합니다.</p>
+          </li>
+          <li>
+            <strong>테스트 및 오픈</strong>
+            <p>실사용 테스트를 거쳐 안정적으로 시스템을 운영할 수 있도록 지원합니다.</p>
+          </li>
+          <li>
+            <strong>운영 지원 및 유지관리</strong>
+            <p>오픈 이후에도 개선 및 유지보수가 가능하도록 운영합니다.</p>
+          </li>
+        </ol>
+      </div>
+    </section>
+
+    <!-- Contact -->
+    <section class="section contact" id="contact">
+      <div class="container">
+        <div class="contact-box">
+          <div class="contact-copy">
+            <p class="section-label">CONTACT</p>
+            <h2>귀사 운영 방식에 맞는 솔루션을 제안드립니다</h2>
+            <p>
+              업종과 운영 구조에 따라 필요한 기능은 달라집니다.
+              비즈 솔루션은 상담을 통해 가장 적합한 구축 방향을 제안합니다.
+            </p>
+          </div>
+
+          <form class="contact-form">
+            <div class="form-row">
+              <label for="company">회사명</label>
+              <input type="text" id="company" name="company" placeholder="회사명을 입력하세요" />
+            </div>
+
+            <div class="form-row">
+              <label for="manager">담당자명</label>
+              <input type="text" id="manager" name="manager" placeholder="담당자명을 입력하세요" />
+            </div>
+
+            <div class="form-row">
+              <label for="phone">연락처</label>
+              <input type="tel" id="phone" name="phone" placeholder="연락처를 입력하세요" />
+            </div>
+
+            <div class="form-row">
+              <label for="email">이메일</label>
+              <input type="email" id="email" name="email" placeholder="이메일을 입력하세요" />
+            </div>
+
+            <div class="form-row">
+              <label for="industry">업종</label>
+              <input type="text" id="industry" name="industry" placeholder="예: 외식업, 유통, 브랜드" />
+            </div>
+
+            <fieldset class="form-row checkbox-group">
+              <legend>관심 서비스</legend>
+              <label><input type="checkbox" name="service" value="live-commerce" /> 1인 라이브커머스</label>
+              <label><input type="checkbox" name="service" value="qr-sales" /> QR테이블 주문 · 매출 연동</label>
+              <label><input type="checkbox" name="service" value="erp" /> ERP 시스템</label>
+              <label><input type="checkbox" name="service" value="admin" /> 관리자 시스템</label>
+              <label><input type="checkbox" name="service" value="maintenance" /> 유지보수 / 고도화</label>
+            </fieldset>
+
+            <div class="form-row">
+              <label for="message">문의 내용</label>
+              <textarea id="message" name="message" rows="6" placeholder="필요한 기능이나 현재 운영 상황을 입력해주세요"></textarea>
+            </div>
+
+            <button type="submit" class="btn btn-primary">문의 접수하기</button>
+          </form>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-inner">
+        <div>
+          <h2>BIZ SOLUTION</h2>
+          <p>판매와 운영을 연결하는 통합 비즈니스 솔루션</p>
+        </div>
+        <div>
+          <p>© 2026 BIZ SOLUTION. All rights reserved.</p>
+        </div>
+      </div>
+    </div>
+  </footer>
+</body>
+</html>
